@@ -33,6 +33,8 @@ const App = () => {
   );
 };
 
+//Adding comment
+
 const styles = StyleSheet.create({
   container: {
     alignItems: 'center',
